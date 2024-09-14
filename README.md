@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AYVSP
-- 👀 I’m interested in ... software development
-- 🌱 I’m currently learning JSS3, html, css
+- 👋 Hi, I’m @Ayobami Adebowale 
+- 👀 I’m interested in ... software quality assurance and testing
+- 🌱 I’m currently learning Cypress/JavaScript, for Automated testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ayomadewa@gmail.com
 
